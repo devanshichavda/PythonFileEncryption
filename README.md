@@ -4,7 +4,6 @@ This is a simple Python script with basic file encryption and decryption functio
 # How It Works
 - Each byte is XORed with a user-provided key
 - The same key can encrypt and decrypt the file
--
 
 # What is XOR
 - bitwise encryption method
